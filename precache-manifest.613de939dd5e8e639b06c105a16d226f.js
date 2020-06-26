@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43064bf91e6b6529aaad6c80d0272b73",
+    "revision": "d5ba5e1e4c98b037eb3b33297d168f63",
     "url": "/shutterstock-ui-wizard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shutterstock-ui-wizard/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "a80431bcfe10167018d8",
+    "revision": "28d90dcdc75236ce3af1",
     "url": "/shutterstock-ui-wizard/static/css/main.fcb09cbe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shutterstock-ui-wizard/static/js/2.a542bdba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a80431bcfe10167018d8",
-    "url": "/shutterstock-ui-wizard/static/js/main.4f10ac66.chunk.js"
+    "revision": "28d90dcdc75236ce3af1",
+    "url": "/shutterstock-ui-wizard/static/js/main.78a12c2a.chunk.js"
   },
   {
     "revision": "4a1341e151435d001010",
