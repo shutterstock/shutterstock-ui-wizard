@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shutterstock-ui-wizard/precache-manifest.fbbcec2983661e14fe744cd852705134.js"
+  "/shutterstock-ui-wizard/precache-manifest.804affd16a441e9d6bdb6995bae3f5eb.js"
 );
 
 self.addEventListener('message', (event) => {

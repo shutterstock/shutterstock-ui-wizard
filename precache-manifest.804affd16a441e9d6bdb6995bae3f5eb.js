@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01b780f04fb8bc9899a2174a62a46a9c",
+    "revision": "43064bf91e6b6529aaad6c80d0272b73",
     "url": "/shutterstock-ui-wizard/index.html"
   },
   {
