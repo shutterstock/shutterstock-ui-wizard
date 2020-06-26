@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/shutterstock-ui-wizard/static/css/main.fcb09cbe.chunk.css",
-    "main.js": "/shutterstock-ui-wizard/static/js/main.78a12c2a.chunk.js",
-    "main.js.map": "/shutterstock-ui-wizard/static/js/main.78a12c2a.chunk.js.map",
+    "main.css": "/shutterstock-ui-wizard/static/css/main.76a398e1.chunk.css",
+    "main.js": "/shutterstock-ui-wizard/static/js/main.e83eb777.chunk.js",
+    "main.js.map": "/shutterstock-ui-wizard/static/js/main.e83eb777.chunk.js.map",
     "runtime-main.js": "/shutterstock-ui-wizard/static/js/runtime-main.4df7de47.js",
     "runtime-main.js.map": "/shutterstock-ui-wizard/static/js/runtime-main.4df7de47.js.map",
     "static/css/2.829c9cb5.chunk.css": "/shutterstock-ui-wizard/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.a542bdba.chunk.js": "/shutterstock-ui-wizard/static/js/2.a542bdba.chunk.js",
-    "static/js/2.a542bdba.chunk.js.map": "/shutterstock-ui-wizard/static/js/2.a542bdba.chunk.js.map",
+    "static/js/2.3c5cc3e6.chunk.js": "/shutterstock-ui-wizard/static/js/2.3c5cc3e6.chunk.js",
+    "static/js/2.3c5cc3e6.chunk.js.map": "/shutterstock-ui-wizard/static/js/2.3c5cc3e6.chunk.js.map",
     "index.html": "/shutterstock-ui-wizard/index.html",
-    "precache-manifest.613de939dd5e8e639b06c105a16d226f.js": "/shutterstock-ui-wizard/precache-manifest.613de939dd5e8e639b06c105a16d226f.js",
+    "precache-manifest.7b233b9e6dff62ed5cacb1db1e82faf8.js": "/shutterstock-ui-wizard/precache-manifest.7b233b9e6dff62ed5cacb1db1e82faf8.js",
     "service-worker.js": "/shutterstock-ui-wizard/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/shutterstock-ui-wizard/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.fcb09cbe.chunk.css.map": "/shutterstock-ui-wizard/static/css/main.fcb09cbe.chunk.css.map",
-    "static/js/2.a542bdba.chunk.js.LICENSE.txt": "/shutterstock-ui-wizard/static/js/2.a542bdba.chunk.js.LICENSE.txt"
+    "static/css/main.76a398e1.chunk.css.map": "/shutterstock-ui-wizard/static/css/main.76a398e1.chunk.css.map",
+    "static/js/2.3c5cc3e6.chunk.js.LICENSE.txt": "/shutterstock-ui-wizard/static/js/2.3c5cc3e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4df7de47.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.a542bdba.chunk.js",
-    "static/css/main.fcb09cbe.chunk.css",
-    "static/js/main.78a12c2a.chunk.js"
+    "static/js/2.3c5cc3e6.chunk.js",
+    "static/css/main.76a398e1.chunk.css",
+    "static/js/main.e83eb777.chunk.js"
   ]
 }
